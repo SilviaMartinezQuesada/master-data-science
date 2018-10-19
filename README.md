@@ -5,4 +5,4 @@ Octubre 2018 - Mayo 2019
 
 Silvia Martínez Quesada
 
-Data
+Data Scientist

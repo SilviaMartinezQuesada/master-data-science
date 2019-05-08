@@ -1,6 +1,6 @@
 # Welcome to this repository!
 
-My name is Silvia Quesada and in this repository you can find my final master's work done at the KSchool school, in May 2019 about the purchase of weapons, migrations and indicators of poverty.
+My name is Silvia Quesada and in this repository you can find my final master's work done at KSchool, in May 2019 about the purchase of weapons, migrations and indicators of poverty.
 
 In order to replicate the work done you will need to have access to:
 

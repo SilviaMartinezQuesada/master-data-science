@@ -9,7 +9,7 @@
 if (!require(wbstats)) install.packages('wbstats')
 if (!require(data.table)) install.packages('data.table')
 
-path_to_save <- "C:/Users/SilviaMartinezQuesad/OneDrive - TOKIOTA/Máster Kschool 2018-2019/TFM/Entregable/Github"
+path_to_save <- "Write your path here!"
 
 # 2. We download the information available by country and choose the columns of interest
 

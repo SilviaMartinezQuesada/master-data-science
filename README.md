@@ -1,8 +1,16 @@
-# master-data-science
+# Welcome to this repository!
 
-11 edición Máster Data Science - Kshcool
-Octubre 2018 - Mayo 2019
+My name is Silvia Quesada and in this repository you can find my final master's work done at the KSchool school, in May 2019 about the purchase of weapons, migrations and indicators of poverty.
 
-Silvia Martínez Quesada
+In order to replicate the work done you will need to have access to:
 
-Data Scientist
+- Python 3
+- R 3.3.2
+
+In each file you will find the steps to follow to correctly execute the process.
+
+It will be necessary to install some packages of both R and Python, but quiet, everything is ready in the files.
+
+You will also find two documents, one in which I summarize all the way traveled when doing this work and another shorter one with a summary and the conclusions obtained.
+
+Hope you enjoy!

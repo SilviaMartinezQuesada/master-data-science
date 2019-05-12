@@ -1,0 +1,309 @@
+iso3c;long;lat;region;country;country_weapons;country_migrations;country_hdi
+NOCODE;;;No region;Czechoslovakia;Czechoslovakia;;
+NOCODE;;;No region;NATO**;NATO**;;
+NOCODE;;;No region;OSCE**;OSCE**;;
+NOCODE;;;No region;Western Sahara;Western Sahara;Western Sahara;
+NOCODE;;;No region;Regional Security System**;Regional Security System**;;
+NOCODE;;;No region;United Nations**;United Nations**;;
+NOCODE;;;No region;Unknown rebel group*;Unknown rebel group*;;
+NOCODE;;;No region;Unknown recipient(s);Unknown recipient(s);;
+NOCODE;;;No region;Unknown supplier(s);Unknown supplier(s);;
+NOCODE;;;No region;Soviet Union;Soviet Union;;
+NOCODE;;;No region;Yugoslavia;Yugoslavia;;
+NOCODE;;;No region;Caribbean Netherlands;;Caribbean Netherlands;
+NOCODE;;;No region;Holy See;;Holy See;
+;;;No region;Germany (FRG);Germany (FRG);;
+;;;No region;East Germany (GDR);East Germany (GDR);;
+AFG;69.1761;34.5228;South Asia;Afghanistan;Afghanistan;Afghanistan; Afghanistan
+AFG;69.1761;34.5228;South Asia;Afghanistan;Northern Alliance (Afghanistan)*;;
+AFG;69.1761;34.5228;South Asia;Afghanistan;Mujahedin (Afghanistan)*;;
+ALB;19.8172;41.3317;Europe & Central Asia;Albania;Albania;Albania; Albania
+DZA;3.05097;36.7397;Middle East & North Africa;Algeria;Algeria;Algeria; Algeria
+ASM;-170.691;-14.2846;East Asia & Pacific;American Samoa;;American Samoa;
+AND;1.5218;42.5075;Europe & Central Asia;Andorra;;Andorra; Andorra
+AGO;13.242;-8.81155;Sub-Saharan Africa ;Angola;Angola;Angola; Angola
+AGO;13.242;-8.81155;Sub-Saharan Africa ;Angola;UNITA (Angola)*;;
+AGO;13.242;-8.81155;Sub-Saharan Africa ;Angola;FNLA (Angola)*;;
+ATG;-61.8456;17.1175;Latin America & Caribbean ;Antigua and Barbuda;;Antigua and Barbuda; Antigua and Barbuda
+ARG;-58.4173;-34.6118;Latin America & Caribbean ;Argentina;Argentina;Argentina; Argentina
+ARM;44.509;40.1596;Europe & Central Asia;Armenia;Armenia;Armenia; Armenia
+ABW;-70.0167;12.5167;Latin America & Caribbean ;Aruba;Aruba;Aruba;
+AUS;149.129;-35.282;East Asia & Pacific;Australia;Australia;Australia; Australia
+AUT;16.3798;48.2201;Europe & Central Asia;Austria;Austria;Austria; Austria
+AZE;49.8932;40.3834;Europe & Central Asia;Azerbaijan;Azerbaijan;Azerbaijan; Azerbaijan
+BHS;-77.339;25.0661;Latin America & Caribbean ;Bahamas, The;Bahamas;Bahamas; Bahamas
+BHR;50.5354;26.1921;Middle East & North Africa;Bahrain;Bahrain;Bahrain; Bahrain
+BGD;90.4113;23.7055;South Asia;Bangladesh;Bangladesh;Bangladesh; Bangladesh
+BRB;-59.6105;13.0935;Latin America & Caribbean ;Barbados;Barbados;Barbados; Barbados
+BLR;27.5766;53.9678;Europe & Central Asia;Belarus;Belarus;Belarus; Belarus
+BEL;4.36761;50.8371;Europe & Central Asia;Belgium;Belgium;Belgium; Belgium
+BLZ;-88.7713;17.2534;Latin America & Caribbean ;Belize;Belize;Belize; Belize
+BEN;2.6323;6.4779;Sub-Saharan Africa ;Benin;Benin;Benin; Benin
+BMU;-64.706;32.3293;North America;Bermuda;;Bermuda;
+BTN;89.6177;27.5768;South Asia;Bhutan;Bhutan;Bhutan; Bhutan
+BOL;-66.1936;-13.9908;Latin America & Caribbean ;Bolivia;Bolivia;Bolivia (Plurinational State of); Bolivia (Plurinational State of)
+BIH;18.4214;43.8607;Europe & Central Asia;Bosnia and Herzegovina;Bosnia-Herzegovina;Bosnia and Herzegovina; Bosnia and Herzegovina
+BWA;25.9201;-24.6544;Sub-Saharan Africa ;Botswana;Botswana;Botswana; Botswana
+BRA;-47.9292;-15.7801;Latin America & Caribbean ;Brazil;Brazil;Brazil; Brazil
+VGB;-64.623056;18.431389;Latin America & Caribbean ;British Virgin Islands;;British Virgin Islands;
+VGB;-64.623056;18.431389;Latin America & Caribbean ;British Virgin Islands;;Anguilla;
+BRN;114.946;4.94199;East Asia & Pacific;Brunei Darussalam;Brunei;Brunei Darussalam; Brunei Darussalam
+BGR;23.3238;42.7105;Europe & Central Asia;Bulgaria;Bulgaria;Bulgaria; Bulgaria
+BFA;-1.53395;12.3605;Sub-Saharan Africa ;Burkina Faso;Burkina Faso;Burkina Faso; Burkina Faso
+BDI;29.3639;-3.3784;Sub-Saharan Africa ;Burundi;Burundi;Burundi; Burundi
+CPV;-23.5087;14.9218;Sub-Saharan Africa ;Cabo Verde;Cape Verde;Cabo Verde; Cabo Verde
+KHM;104.874;11.5556;East Asia & Pacific;Cambodia;Cambodia;Cambodia; Cambodia
+KHM;104.874;11.5556;East Asia & Pacific;Cambodia;Khmer Rouge (Cambodia)*;;
+CMR;11.5174;3.8721;Sub-Saharan Africa ;Cameroon;Cameroon;Cameroon; Cameroon
+CAN;-75.6919;45.4215;North America;Canada;Canada;Canada; Canada
+CYM;-81.3857;19.3022;Latin America & Caribbean ;Cayman Islands;;Cayman Islands;
+CAF;21.6407;5.63056;Sub-Saharan Africa ;Central African Republic;Central African Republic;Central African Republic; Central African Republic
+TCD;15.0445;12.1048;Sub-Saharan Africa ;Chad;Chad;Chad; Chad
+TCD;15.0445;12.1048;Sub-Saharan Africa ;Chad;FAN (Chad)*;;
+TCD;15.0445;12.1048;Sub-Saharan Africa ;Chad;GUNT (Chad)*;;
+CHI;;;Europe & Central Asia;Channel Islands;;Channel Islands;
+CHL;-70.6475;-33.475;Latin America & Caribbean ;Chile;Chile;Chile; Chile
+CHN;116.286;40.0495;East Asia & Pacific;China;China;China; China
+COL;-74.082;4.60987;Latin America & Caribbean ;Colombia;Colombia;Colombia; Colombia
+COM;43.2418;-11.6986;Sub-Saharan Africa ;Comoros;Comoros;Comoros; Comoros
+COD;15.3222;-4.325;Sub-Saharan Africa ;Congo (RDC);DR Congo;Democratic Republic of the Congo; Congo (Democratic Republic of the)
+COD;15.3222;-4.325;Sub-Saharan Africa ;Congo (RDC);Katanga;;
+COG;15.2662;-4.2767;Sub-Saharan Africa ;Congo;Congo;Congo; Congo
+CRI;-84.0089;9.63701;Latin America & Caribbean ;Costa Rica;Costa Rica;Costa Rica; Costa Rica
+CIV;-4.0305;5.332;Sub-Saharan Africa ;Cote d'Ivoire;Cote d'Ivoire;Côte d'Ivoire; Côte d'Ivoire
+HRV;15.9614;45.8069;Europe & Central Asia;Croatia;Croatia;Croatia; Croatia
+CUB;-82.3667;23.1333;Latin America & Caribbean ;Cuba;Cuba;Cuba; Cuba
+CUB;-82.3667;23.1333;Latin America & Caribbean ;Cuba;Anti-Castro rebels (Cuba)*;;
+CUW;;;Latin America & Caribbean ;Curacao;;Curaçao;
+CYP;33.3736;35.1676;Europe & Central Asia;Cyprus;Cyprus;Cyprus; Cyprus
+CYP;33.3736;35.1676;Europe & Central Asia;Cyprus;Northern Cyprus;;
+CZE;14.4205;50.0878;Europe & Central Asia;Czech Republic;Czech Republic;Czechia; Czechia
+DNK;12.5681;55.6763;Europe & Central Asia;Denmark;Denmark;Denmark; Denmark
+DJI;43.1425;11.5806;Middle East & North Africa;Djibouti;Djibouti;Djibouti; Djibouti
+DMA;-61.39;15.2976;Latin America & Caribbean ;Dominica;Dominican Republic;Dominica; Dominica
+DOM;-69.8908;18.479;Latin America & Caribbean ;Dominican Republic;;Dominican Republic; Dominican Republic
+ECU;-78.5243;-0.229498;Latin America & Caribbean ;Ecuador;Ecuador;Ecuador; Ecuador
+EGY;31.2461;30.0982;Middle East & North Africa;Egypt, Arab Rep,;Egypt;Egypt; Egypt
+SLV;-89.2073;13.7034;Latin America & Caribbean ;El Salvador;El Salvador;El Salvador; El Salvador
+SLV;-89.2073;13.7034;Latin America & Caribbean ;El Salvador;FMLN (El Salvador)*;;
+GNQ;8.7741;3.7523;Sub-Saharan Africa ;Equatorial Guinea;Equatorial Guinea;Equatorial Guinea; Equatorial Guinea
+ERI;38.9183;15.3315;Sub-Saharan Africa ;Eritrea;Eritrea;Eritrea; Eritrea
+EST;24.7586;59.4392;Europe & Central Asia;Estonia;Estonia;Estonia; Estonia
+SWZ;31.4659;-26.5225;Sub-Saharan Africa ;Eswatini;Swaziland;Swaziland; Eswatini (Kingdom of)
+ETH;38.7468;9.02274;Sub-Saharan Africa ;Ethiopia;Ethiopia;Ethiopia; Ethiopia
+ETH;38.7468;9.02274;Sub-Saharan Africa ;Ethiopia;African Union**;;
+ETH;38.7468;9.02274;Sub-Saharan Africa ;Ethiopia;ELF (Ethiopia)*;;
+ETH;38.7468;9.02274;Sub-Saharan Africa ;Ethiopia;EPLF (Ethiopia)*;;
+FRO;-6.91181;61.8926;Europe & Central Asia;Faroe Islands;;Faeroe Islands;
+FJI;178.399;-18.1149;East Asia & Pacific;Fiji;Fiji;Fiji; Fiji
+FIN;24.9525;60.1608;Europe & Central Asia;Finland;Finland;Finland; Finland
+FRA;2.35097;48.8566;Europe & Central Asia;France;France;France; France
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Wallis and Futuna Islands;
+FRA;2.35097;48.8566;Europe & Central Asia;France;Viet Minh (France)*;French Guiana;
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Guadeloupe;
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Martinique;
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Mayotte;
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Réunion;
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Saint Pierre and Miquelon;
+FRA;2.35097;48.8566;Europe & Central Asia;France;;Saint Vincent and the Grenadines;
+PYF;-149.57;-17.535;East Asia & Pacific;French Polynesia;;French Polynesia;
+GAB;9.45162;0.38832;Sub-Saharan Africa ;Gabon;Gabon;Gabon; Gabon
+GMB;-16.5885;13.4495;Sub-Saharan Africa ;Gambia, The;Gambia;Gambia; Gambia
+GEO;44.793;41.71;Europe & Central Asia;Georgia;Georgia;Georgia; Georgia
+DEU;13.4115;52.5235;Europe & Central Asia;Germany;;Germany; Germany
+GHA;-0.20795;5.57045;Sub-Saharan Africa ;Ghana;Ghana;Ghana; Ghana
+GIB;;;Europe & Central Asia;Gibraltar;;Gibraltar;
+GRC;23.7166;37.9792;Europe & Central Asia;Greece;Greece;Greece; Greece
+GRL;-51.7214;64.1836;Europe & Central Asia;Greenland;;Greenland;
+GRD;-61.7449;12.0653;Latin America & Caribbean ;Grenada;Grenada;Grenada; Grenada
+GUM;144.794;13.4443;East Asia & Pacific;Guam;;Guam;
+GTM;-90.5328;14.6248;Latin America & Caribbean ;Guatemala;Guatemala;Guatemala; Guatemala
+GTM;-90.5328;14.6248;Latin America & Caribbean ;Guatemala;Armas (Guatemala)*;Guinea;
+GIN;-13.7;9.51667;Sub-Saharan Africa ;Guinea;Guinea;Guinea-Bissau; Guinea
+GNB;-15.1804;11.8037;Sub-Saharan Africa ;Guinea-Bissau;Guinea-Bissau;; Guinea-Bissau
+GUY;-58.1548;6.80461;Latin America & Caribbean ;Guyana;Guyana;Guyana; Guyana
+HTI;-72.3288;18.5392;Latin America & Caribbean ;Haiti;Haiti;Haiti; Haiti
+HTI;-72.3288;18.5392;Latin America & Caribbean ;Haiti;Haiti rebels*;;
+HND;-87.4667;15.1333;Latin America & Caribbean ;Honduras;Honduras;Honduras; Honduras
+HKG;114.109;22.3964;East Asia & Pacific;Hong Kong SAR, China;;China, Hong Kong SAR; Hong Kong, China (SAR)
+HUN;19.0408;47.4984;Europe & Central Asia;Hungary;Hungary;Hungary; Hungary
+ISL;-21.8952;64.1353;Europe & Central Asia;Iceland;Iceland;Iceland; Iceland
+IND;77.225;28.6353;South Asia;India;India;India; India
+IDN;106.83;-6.19752;East Asia & Pacific;Indonesia;Indonesia;Indonesia; Indonesia
+IRN;51.4447;35.6878;Middle East & North Africa;Iran, Islamic Rep,;Iran;Iran (Islamic Republic of); Iran (Islamic Republic of)
+IDN;106.83;-6.19752;East Asia & Pacific;Indonesia;Indonesia rebels*;;
+IRQ;44.394;33.3302;Middle East & North Africa;Iraq;Iraq;Iraq; Iraq
+IRL;-6.26749;53.3441;Europe & Central Asia;Ireland;Ireland;Ireland; Ireland
+IMN;-4.47928;54.1509;Europe & Central Asia;Isle of Man;;Isle of Man;
+ISR;35.2035;31.7717;Middle East & North Africa;Israel;Israel;Israel; Israel
+ISR;35.2035;31.7717;Middle East & North Africa;Israel;PLO (Israel)*;;
+ISR;35.2035;31.7717;Middle East & North Africa;Israel;PRC (Israel/Palestine)*;;
+ISR;35.2035;31.7717;Middle East & North Africa;Israel;PIJ (Israel/Palestine)*;;
+PLT;;;Middle East & North Africa;Palestine;Hamas (Palestine)*;; Palestine, State of
+PLT;;;Middle East & North Africa;Palestine;Palestine;State of Palestine;
+ITA;12.4823;41.8955;Europe & Central Asia;Italy;Italy;;
+ITA;12.4823;41.8955;Europe & Central Asia;Italy;Saint Vincent;Italy; Italy
+JAM;-76.792;17.9927;Latin America & Caribbean ;Jamaica;Jamaica;Jamaica; Jamaica
+JPN;139.77;35.67;East Asia & Pacific;Japan;Japan;Japan; Japan
+JOR;35.9263;31.9497;Middle East & North Africa;Jordan;Jordan;Jordan; Jordan
+KAZ;71.4382;51.1879;Europe & Central Asia;Kazakhstan;Kazakhstan;Kazakhstan; Kazakhstan
+KEN;36.8126;-1.27975;Sub-Saharan Africa ;Kenya;Kenya;Kenya; Kenya
+KIR;172.979;1.32905;East Asia & Pacific;Kiribati;Kiribati;Kiribati; Kiribati
+PRK;125.754;39.0319;East Asia & Pacific;Korea, Dem, People’s Rep,;South Korea;Dem. People's Republic of Korea; Korea (Republic of)
+KOR;126.957;37.5323;East Asia & Pacific;Korea, Rep,;North Korea;Republic of Korea;
+XKX;20.926;42.565;Europe & Central Asia;Kosovo;Kosovo;;
+KWT;47.9824;29.3721;Middle East & North Africa;Kuwait;Kuwait;Kuwait; Kuwait
+KGZ;74.6057;42.8851;Europe & Central Asia;Kyrgyz Republic;Kyrgyzstan;Kyrgyzstan; Kyrgyzstan
+LAO;102.177;18.5826;East Asia & Pacific;Lao PDR;Laos;Lao People's Democratic Republic; Lao People's Democratic Republic
+LAO;102.177;18.5826;East Asia & Pacific;Lao PDR;Pathet Lao (Laos)*;;
+LVA;24.1048;56.9465;Europe & Central Asia;Latvia;Latvia;Latvia; Latvia
+LBN;35.5134;33.8872;Middle East & North Africa;Lebanon;Lebanon;Lebanon; Lebanon
+LBN;35.5134;33.8872;Middle East & North Africa;Lebanon;Lebanon Palestinian rebels*;;
+LBN;35.5134;33.8872;Middle East & North Africa;Lebanon;LF (Lebanon)*;;
+LBN;35.5134;33.8872;Middle East & North Africa;Lebanon;Amal (Lebanon)*;;
+LBN;35.5134;33.8872;Middle East & North Africa;Lebanon;SLA (Lebanon)*;;
+LBN;35.5134;33.8872;Middle East & North Africa;Lebanon;Hezbollah (Lebanon)*;;
+LSO;27.7167;-29.5208;Sub-Saharan Africa ;Lesotho;Lesotho;Lesotho; Lesotho
+LBR;-10.7957;6.30039;Sub-Saharan Africa ;Liberia;Liberia;Liberia; Liberia
+LBY;13.1072;32.8578;Middle East & North Africa;Libya;Libya;Libya; Libya
+LBY;13.1072;32.8578;Middle East & North Africa;Libya;Libya GNC;;
+LBY;13.1072;32.8578;Middle East & North Africa;Libya;Libya HoR;;
+LBY;13.1072;32.8578;Middle East & North Africa;Libya;NTC (Libya)*;;
+LIE;9.52148;47.1411;Europe & Central Asia;Liechtenstein;;Liechtenstein; Liechtenstein
+LTU;25.2799;54.6896;Europe & Central Asia;Lithuania;Lithuania;Lithuania; Lithuania
+LUX;6.1296;49.61;Europe & Central Asia;Luxembourg;Luxembourg;Luxembourg; Luxembourg
+MAC;113.55;22.1667;East Asia & Pacific;Macao SAR, China;;China, Macao SAR;
+MDG;45.7167;-20.4667;Sub-Saharan Africa ;Madagascar;Madagascar;Madagascar; Madagascar
+MWI;33.7703;-13.9899;Sub-Saharan Africa ;Malawi;Malawi;Malawi; Malawi
+MYS;101.684;3.12433;East Asia & Pacific;Malaysia;Malaysia;Malaysia; Malaysia
+MDV;73.5109;4.1742;South Asia;Maldives;Maldives;Maldives; Maldives
+MLI;-7.50034;13.5667;Sub-Saharan Africa ;Mali;Mali;Mali; Mali
+MLT;14.5189;35.9042;Middle East & North Africa;Malta;Malta;Malta; Malta
+MHL;171.135;7.11046;East Asia & Pacific;Marshall Islands;Marshall Islands;Marshall Islands; Marshall Islands
+MRT;-15.9824;18.2367;Sub-Saharan Africa ;Mauritania;Mauritania;Mauritania; Mauritania
+MUS;57.4977;-20.1605;Sub-Saharan Africa ;Mauritius;Mauritius;Mauritius; Mauritius
+MEX;-99.1276;19.427;Latin America & Caribbean ;Mexico;Mexico;Mexico; Mexico
+FSM;158.185;6.91771;East Asia & Pacific;Micronesia, Fed, Sts,;Micronesia;Micronesia (Fed. States of); Micronesia (Federated States of)
+MDA;28.8497;47.0167;Europe & Central Asia;Moldova;Moldova;Republic of Moldova; Moldova (Republic of)
+MCO;7.41891;43.7325;Europe & Central Asia;Monaco;;Monaco;
+MNG;106.937;47.9129;East Asia & Pacific;Mongolia;Mongolia;Mongolia; Mongolia
+MNE;19.2595;42.4602;Europe & Central Asia;Montenegro;Montenegro;Montenegro; Montenegro
+MAR;-6.8704;33.9905;Middle East & North Africa;Morocco;Morocco;Morocco; Morocco
+MOZ;32.5713;-25.9664;Sub-Saharan Africa ;Mozambique;Mozambique;Mozambique; Mozambique
+MMR;95.9562;21.914;East Asia & Pacific;Myanmar;Myanmar;Myanmar; Myanmar
+MMR;95.9562;21.914;East Asia & Pacific;Myanmar;United Wa State (Myanmar)*;;
+MMR;95.9562;21.914;East Asia & Pacific;Myanmar;MTA (Myanmar)*;;
+NAM;17.0931;-22.5648;Sub-Saharan Africa ;Namibia;Namibia;Namibia; Namibia
+NRU;166.920867;-0.5477;East Asia & Pacific;Nauru;;Nauru;
+NPL;85.3157;27.6939;South Asia;Nepal;Nepal;Nepal; Nepal
+NLD;4.89095;52.3738;Europe & Central Asia;Netherlands;Netherlands;Netherlands; Netherlands
+NCL;166.464;-22.2677;East Asia & Pacific;New Caledonia;;New Caledonia;
+NZL;174.776;-41.2865;East Asia & Pacific;New Zealand;New Zealand;New Zealand; New Zealand
+NZL;174.776;-41.2865;East Asia & Pacific;New Zealand;;Cook Islands;
+NZL;174.776;-41.2865;East Asia & Pacific;New Zealand;;Niue;
+NZL;174.776;-41.2865;East Asia & Pacific;New Zealand;;Tokelau;
+NIC;-86.2734;12.1475;Latin America & Caribbean ;Nicaragua;Nicaragua;Nicaragua;
+NIC;-86.2734;12.1475;Latin America & Caribbean ;Nicaragua;Contras (Nicaragua)*;; Nicaragua
+NER;2.1073;13.514;Sub-Saharan Africa ;Niger;Niger;Niger; Niger
+NGA;7.48906;9.05804;Sub-Saharan Africa ;Nigeria;Nigeria;Nigeria; Nigeria
+NGA;7.48906;9.05804;Sub-Saharan Africa ;Nigeria;Biafra;;
+MKD;21.4361;42.0024;Europe & Central Asia;North Macedonia;Macedonia (FYROM);TFYR Macedonia; The former Yugoslav Republic of Macedonia
+MKD;21.4361;42.0024;Europe & Central Asia;North Macedonia;NLA (Macedonia)*;;
+MNP;145.765;15.1935;East Asia & Pacific;Northern Mariana Islands;;Northern Mariana Islands;
+NOR;10.7387;59.9138;Europe & Central Asia;Norway;Norway;Norway; Norway
+OMN;58.5874;23.6105;Middle East & North Africa;Oman;Oman;Oman; Oman
+PAK;72.8;30.5167;South Asia;Pakistan;Pakistan;Pakistan; Pakistan
+PLW;134.479;7.34194;East Asia & Pacific;Palau;Palau;Palau; Palau
+PAN;-79.5188;8.99427;Latin America & Caribbean ;Panama;Panama;Panama; Panama
+PNG;147.194;-9.47357;East Asia & Pacific;Papua New Guinea;Papua New Guinea;Papua New Guinea; Papua New Guinea
+PRY;-57.6362;-25.3005;Latin America & Caribbean ;Paraguay;Paraguay;Paraguay; Paraguay
+PER;-77.0465;-12.0931;Latin America & Caribbean ;Peru;Peru;Peru; Peru
+PHL;121.035;14.5515;East Asia & Pacific;Philippines;Philippines;Philippines; Philippines
+PHL;121.035;14.5515;East Asia & Pacific;Philippines;MNLF (Philippines)*;;
+POL;21.02;52.26;Europe & Central Asia;Poland;Poland;Poland; Poland
+PRT;-9.13552;38.7072;Europe & Central Asia;Portugal;Portugal;Portugal; Portugal
+PRT;-9.13552;38.7072;Europe & Central Asia;Portugal;FRELIMO (Portugal)*;;
+PRT;-9.13552;38.7072;Europe & Central Asia;Portugal;PAIGC (Portugal)*;;
+PRT;-9.13552;38.7072;Europe & Central Asia;Portugal;MPLA (Portugal)*;;
+PRI;-66;18.23;Latin America & Caribbean ;Puerto Rico;;Puerto Rico;
+QAT;51.5082;25.2948;Middle East & North Africa;Qatar;Qatar;Qatar; Qatar
+ROU;26.0979;44.4479;Europe & Central Asia;Romania;Romania;Romania; Romania
+RUS;37.6176;55.7558;Europe & Central Asia;Russian Federation;Russia;Russian Federation; Russian Federation
+RWA;30.0587;-1.95325;Sub-Saharan Africa ;Rwanda;Rwanda;Rwanda; Rwanda
+RWA;30.0587;-1.95325;Sub-Saharan Africa ;Rwanda;RPF (Rwanda)*;;
+WSM;-171.752;-13.8314;East Asia & Pacific;Samoa;Samoa;Samoa; Samoa
+SMR;12.4486;43.9322;Europe & Central Asia;San Marino;;San Marino;
+STP;6.6071;0.20618;Sub-Saharan Africa ;Sao Tome and Principe;;Sao Tome and Principe; Sao Tome and Principe
+SAU;46.6977;24.6748;Middle East & North Africa;Saudi Arabia;Saudi Arabia;Saudi Arabia; Saudi Arabia
+SEN;-17.4734;14.7247;Sub-Saharan Africa ;Senegal;Senegal;Senegal; Senegal
+SRB;20.4656;44.8024;Europe & Central Asia;Serbia;Serbia;Serbia; Serbia
+SYC;55.4466;-4.6309;Sub-Saharan Africa ;Seychelles;Seychelles;Seychelles; Seychelles
+SLE;-13.2134;8.4821;Sub-Saharan Africa ;Sierra Leone;Sierra Leone;Sierra Leone; Sierra Leone
+SLE;-13.2134;8.4821;Sub-Saharan Africa ;Sierra Leone;RUF (Sierra Leone)*;;
+SGP;103.85;1.28941;East Asia & Pacific;Singapore;Singapore;Singapore; Singapore
+SXM;;;Latin America & Caribbean ;Sint Maarten (Dutch part);;Sint Maarten (Dutch part);
+SVK;17.1073;48.1484;Europe & Central Asia;Slovak Republic;Slovakia;Slovakia; Slovakia
+SVN;14.5044;46.0546;Europe & Central Asia;Slovenia;Slovenia;Slovenia; Slovenia
+SLB;159.949;-9.42676;East Asia & Pacific;Solomon Islands;Solomon Islands;Solomon Islands; Solomon Islands
+SOM;45.3254;2.07515;Sub-Saharan Africa ;Somalia;Somalia;;
+SOM;45.3254;2.07515;Sub-Saharan Africa ;Somalia;SNA (Somalia)*;;
+SOM;45.3254;2.07515;Sub-Saharan Africa ;Somalia;UIC (Somalia)*;Somalia;
+ZAF;28.1871;-25.746;Sub-Saharan Africa ;South Africa;South Africa;South Africa;
+ZAF;28.1871;-25.746;Sub-Saharan Africa ;South Africa;ANC (South Africa)*;; South Africa
+SSD;31.6;4.85;Sub-Saharan Africa ;South Sudan;South Sudan;South Sudan; South Sudan
+ESP;-3.70327;40.4167;Europe & Central Asia;Spain;Spain;Spain; Spain
+LKA;79.8528;6.92148;South Asia;Sri Lanka;Sri Lanka;Sri Lanka; Sri Lanka
+LKA;79.8528;6.92148;South Asia;Sri Lanka;LTTE (Sri Lanka)*;;
+KNA;-62.7309;17.3;Latin America & Caribbean ;St, Kitts and Nevis;Saint Kitts and Nevis;Saint Kitts and Nevis; Saint Kitts and Nevis
+LCA;-60.9832;14;Latin America & Caribbean ;St, Lucia;;; Saint Lucia
+MAF;;;Latin America & Caribbean ;St, Martin (French part);;;
+VCT;-61.2653;13.2035;Latin America & Caribbean ;St, Vincent and the Grenadines;;;
+SDN;32.5363;15.5932;Sub-Saharan Africa ;Sudan;Sudan;;
+SDN;32.5363;15.5932;Sub-Saharan Africa ;Sudan;SPLA (Sudan)*;Sudan; Sudan
+SUR;-55.1679;5.8232;Latin America & Caribbean ;Suriname;Suriname;Suriname; Suriname
+SWE;18.0645;59.3327;Europe & Central Asia;Sweden;Sweden;Sweden; Sweden
+CHE;7.44821;46.948;Europe & Central Asia;Switzerland;Switzerland;Switzerland; Switzerland
+SYR;36.3119;33.5146;Middle East & North Africa;Syrian Arab Republic;Syria;Syrian Arab Republic; Syrian Arab Republic
+SYR;36.3119;33.5146;Middle East & North Africa;Syrian Arab Republic;Syria rebels*;;
+TWN;;;East Asia & Pacific;Taiwan, China;Taiwan;;
+TJK;68.7864;38.5878;Europe & Central Asia;Tajikistan;Tajikistan;Tajikistan; Tajikistan
+TZA;35.7382;-6.17486;Sub-Saharan Africa ;Tanzania;Tanzania;United Republic of Tanzania; Tanzania (United Republic of)
+THA;100.521;13.7308;East Asia & Pacific;Thailand;Thailand;Thailand; Thailand
+TLS;125.567;-8.56667;East Asia & Pacific;Timor-Leste;Timor-Leste;Timor-Leste; Timor-Leste
+TGO;1.2255;6.1228;Sub-Saharan Africa ;Togo;Togo;Togo; Togo
+TON;-175.216;-21.136;East Asia & Pacific;Tonga;Tonga;Tonga; Tonga
+TTO;-61.4789;10.6596;Latin America & Caribbean ;Trinidad and Tobago;Trinidad and Tobago;Trinidad and Tobago; Trinidad and Tobago
+TUN;10.21;36.7899;Middle East & North Africa;Tunisia;Tunisia;Tunisia; Tunisia
+TUR;32.3606;39.7153;Europe & Central Asia;Turkey;Turkey;Turkey; Turkey
+TUR;32.3606;39.7153;Europe & Central Asia;Turkey;PKK (Turkey)*;;
+TKM;58.3794;37.9509;Europe & Central Asia;Turkmenistan;Turkmenistan;Turkmenistan; Turkmenistan
+TCA;-71.141389;21.4602778;Latin America & Caribbean ;Turks and Caicos Islands;;Turks and Caicos Islands;
+TUV;179.089567;-8.6314877;East Asia & Pacific;Tuvalu;Tuvalu;Tuvalu;
+UGA;32.5729;0.314269;Sub-Saharan Africa ;Uganda;Uganda;Uganda; Uganda
+UGA;32.5729;0.314269;Sub-Saharan Africa ;Uganda;LRA (Uganda)*;;
+UKR;30.5038;50.4536;Europe & Central Asia;Ukraine;Ukraine;Ukraine; Ukraine
+UKR;30.5038;50.4536;Europe & Central Asia;Ukraine;Ukraine Rebels*;;
+ARE;54.3705;24.4764;Middle East & North Africa;United Arab Emirates;UAE;United Arab Emirates; United Arab Emirates
+GBR;-0.126236;51.5002;Europe & Central Asia;United Kingdom;United Kingdom;United Kingdom; United Kingdom
+GBR;-0.126236;51.5002;Europe & Central Asia;United Kingdom;;Montserrat;
+GBR;-0.126236;51.5002;Europe & Central Asia;United Kingdom;Provisional IRA (UK)*;Falkland Islands (Malvinas);
+GBR;-0.126236;51.5002;Europe & Central Asia;United Kingdom;;Saint Helena;
+GBR;-0.126236;51.5002;Europe & Central Asia;United Kingdom;;Saint Lucia;
+USA;-77.032;38.8895;North America;United States;United States;United States of America; United States
+URY;-56.0675;-34.8941;Latin America & Caribbean ;Uruguay;Uruguay;Uruguay; Uruguay
+UZB;69.269;41.3052;Europe & Central Asia;Uzbekistan;Uzbekistan;Uzbekistan; Uzbekistan
+VUT;168.321;-17.7404;East Asia & Pacific;Vanuatu;Vanuatu;Vanuatu; Vanuatu
+VEN;-69.8371;9.08165;Latin America & Caribbean ;Venezuela, RB;Venezuela;Venezuela (Bolivarian Republic of); Venezuela (Bolivarian Republic of)
+VNM;105.825;21.0069;East Asia & Pacific;Vietnam;Viet Nam;Viet Nam; Viet Nam
+VNM;105.825;21.0069;East Asia & Pacific;Vietnam;South Vietnam;;
+VNM;105.825;21.0069;East Asia & Pacific;Vietnam;Viet Cong (South Vietnam)*;;
+VIR;-64.8963;18.3358;Latin America & Caribbean ;Virgin Islands (U,S,);;United States Virgin Islands;
+PSE;;;Middle East & North Africa;West Bank and Gaza;;;
+YEM;44.2075;15.352;Middle East & North Africa;Yemen, Rep,;Yemen;Yemen; Yemen
+YEM;44.2075;15.352;Middle East & North Africa;Yemen, Rep,;Huthi rebels (Yemen)*;;
+YEM;44.2075;15.352;Middle East & North Africa;Yemen, Rep,;South Yemen;;
+YEM;44.2075;15.352;Middle East & North Africa;Yemen, Rep,;Southern rebels (Yemen)*;;
+YEM;44.2075;15.352;Middle East & North Africa;Yemen, Rep,;North Yemen;;
+ZMB;28.2937;-15.3982;Sub-Saharan Africa ;Zambia;Zambia;Zambia; Zambia
+ZWE;31.0672;-17.8312;Sub-Saharan Africa ;Zimbabwe;Zimbabwe;Zimbabwe; Zimbabwe
+ZWE;31.0672;-17.8312;Sub-Saharan Africa ;Zimbabwe;ZAPU (Zimbabwe)*;;

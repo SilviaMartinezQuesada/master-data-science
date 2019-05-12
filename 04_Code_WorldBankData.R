@@ -25,10 +25,10 @@ id_choose <-  c("SP.POP.TOTL",        # population
 
 # choose the path where you save the result as csv
 
-path_to_save <- " Write your path here! "
+path_to_save <- getwd()
 
 download_data_worldBank <- function(id_choose, show_plot, save_csv, path_to_save) 
-  {
+{
   # 3. Download World Bank data and turn into data.table
   myDF <- data.table(wb(indicator = id_choose))
   
@@ -89,6 +89,6 @@ download_data_worldBank <- function(id_choose, show_plot, save_csv, path_to_save
   }
   
   return("The process has completed successfully")
-  }
+}
 
 download_data_worldBank(id_choose, show_plot = "no", save_csv = "yes", path_to_save) 

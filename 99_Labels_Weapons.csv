@@ -1,0 +1,243 @@
+Weapon type;Label
+AA gun;Sistema Antiaéreo
+AA gun system;Sistema Antiaéreo
+AALS;Sistema Antiaéreo
+ABL;Sistemas de guiado
+ABM;Estructuras defensivas
+ABM missile;Estructuras defensivas
+ABM system;Estructuras defensivas
+ABM/SAM system;Estructuras defensivas
+ACV/landing craft;Buques
+AD system;Vehículos blindados
+AEV;Vehículos blindados
+AEV/ARV;Vehículos blindados
+AEW aircraft;Aviones
+AEW helicopter;Aviones
+AEW radar;Sistemas de guiado
+AEW&C aircraft;Aviones
+AEW&C system;Sistemas de guiado
+AEW/AGS aircraft;Sistemas de guiado
+AFSV;Vehículos blindados
+AGS aircraft;Sistemas de guiado
+AGS radar;Sistemas de guiado
+AGS/MP radar;Sistemas de guiado
+AGS/SIGINT system;Sistemas de guiado
+AIM-9S;Misiles
+AIP engine;Sistemas de guiado
+Air refuel system;Aviones
+Air search radar;Estructuras defensivas
+Air search system;Estructuras defensivas
+Air/ground surv radar;Estructuras defensivas
+Air/sea search radar;Estructuras defensivas
+Aircraft carrier;Buques
+Aircraft engine;Motores
+Aircraft EO system;Motores
+Aircraft recce system;Sistemas de guiado
+Airship;Aviones
+ALCM;Misiles
+ALV;Vehículos blindados
+AMV;Vehículos blindados
+Anti-ship helicopter;Helicópteros
+Anti-ship MI/ASM;Misiles
+Anti-ship MI/SSM;Misiles
+Anti-ship missile;Misiles
+Anti-ship missile/ARM;Misiles
+Anti-tank AV turret;Estructuras defensivas
+Anti-tank missile;Misiles
+APC;Vehículos blindados
+APC turret;Ametralladoras ligeras
+APC/APV;Vehículos blindados
+APC/Command Post;Vehículos blindados
+APC/CP;Vehículos blindados
+APC/IFV;Vehículos blindados
+APV;Vehículos blindados
+APV/APC;Vehículos blindados
+ARM;Misiles
+Armoured car;Vehículos blindados
+Arty locating radar;Estructuras defensivas
+ARV;Vehículos blindados
+AS torpedo;Misiles
+AS/ASW torpedo;Misiles
+ASM;Misiles
+ASM/anti-ship missile;Misiles
+ASM/anti-tank missile;Misiles
+ASW aircraft;Aviones
+ASW helicopter;Helicópteros
+ASW missile;Misiles
+ASW mortar;Estructuras defensivas
+ASW MRL;Estructuras defensivas
+ASW rocket launcher;Estructuras defensivas
+ASW sonar;Sistemas de guiado
+ASW torpedo;Misiles
+Bomber aircraft;Aviones
+Bomber/MP aircraft;Aviones
+BVRAAM;Misiles
+BVRAAM/SAM;Misiles
+BVRAAM/SRAAM;Misiles
+Cargo craft;Buques
+Cargo ship;Buques
+CIWS;Estructuras defensivas
+Coast defence system;Estructuras defensivas
+Coastal gun;Estructuras defensivas
+Combat ac radar;Sistemas de guiado
+Combat heli radar;Sistemas de guiado
+Combat helicopter;Helicópteros
+Corvette;Buques
+Cruiser;Buques
+Degaussing ship;Buques
+Destroyer;Buques
+Diesel engine;Misiles
+Diesel engine (AV);Motores
+Diving tender;Buques
+EO search/fire control;Sistemas de guiado
+EO system;Estructuras defensivas
+FAC;Buques
+FGA aircraft;Aviones
+FGA/EW aircraft;Aviones
+Fighter aircraft;Aviones
+Fire control radar;Estructuras defensivas
+Frigate;Buques
+Frigate/landing ship;Buques
+Gas turbine;Motores
+Ground attack ac;Aviones
+Ground surv radar;Estructuras defensivas
+Ground attack ac;Aviones
+Guided bomb;Misiles
+Guided rocket;Misiles
+Guided rocket/SSM;Misiles
+Guided shell;Misiles
+Gun chassis;Vehículos blindados
+Gunboat;Buques
+Heavy transport ac;Aviones
+Height-finding radar;Estructuras defensivas
+Helicopter;Helicópteros
+Helicopter turret;Helicópteros
+Icebreaker;Buques
+Icebreaker/OPV;Buques
+IFV;Vehículos blindados
+IFV turret;Vehículos blindados
+IFV/AFSV;Vehículos blindados
+Landing craft;Buques
+Landing ship;Buques
+Landing/patrol craft;Buques
+Light aircraft;Aviones
+Light aircraft/UAV;Aviones
+Light helicopter;Helicópteros
+Light tank;Vehículos blindados
+Light transport ac;Aviones
+Light transport ac.;Aviones
+MCM ship;Buques
+MCM sonar;Sistemas de guiado
+Midget submarine;Submarinos
+Minehunter;Buques
+Minelayer;Buques
+Minesweeper;Buques
+Minesweeper/corvette;Buques
+Mobile AD system;Vehículos blindados
+Mobile SAM system;Vehículos blindados
+Mobile SSM launcher;Misiles
+Mortar;Estructuras defensivas
+Mortar turret;Estructuras defensivas
+MP aircraft;Aviones
+MP aircraft radar;Aviones
+MP UAV;Aviones
+MP/transport ac;Aviones
+MRL;Misiles
+Multi-function radar;Sistemas de guiado
+Multifuntion radar;Sistemas de guiado
+Naval EO system;Sistemas de guiado
+Naval gun;Estructuras defensivas
+Naval gun/CIWS;Estructuras defensivas
+Naval mine/torpedo;Misiles
+Naval MRL;Misiles
+Naval SAM system;Estructuras defensivas
+Naval SAM system.;Estructuras defensivas
+Netlayer;Satélites
+Nuclear reactor;Motores
+Nuclear submarine;Submarinos
+Oiler;Buques
+OPV;Buques
+OPV/frigate;Buques
+OPV/support ship;Buques
+OPV/Training ship;Buques
+OPV/tug;Buques
+Patrol craft;Buques
+Patrol craft/FAC;Buques
+Petrol engine;Motores
+Portable SAM;Sistema Antiaéreo
+Protector;Estructuras defensivas
+Radial engine;Motores
+Recce satellite;Satélites
+Recce/SIGINT ac;Aviones
+Reconnaissance ac;Aviones
+Reconnaissance AV;Vehículos blindados
+Repair ship;Buques
+Rescue ship;Buques
+Salvage ship;Buques
+SAM;Estructuras defensivas
+SAM system;Estructuras defensivas
+SAM system radar;Estructuras defensivas
+SAM/ABM;Estructuras defensivas
+SAM/ABM system;Estructuras defensivas
+Sea search radar;Sistemas de guiado
+Self-propelled gun;Vehículos blindados
+Self-propelled mortar;Vehículos blindados
+Self-propelled MRL;Misiles
+Self-propelled MRL/SSM TEL;Misiles
+SIGINT aircraft;Aviones
+SIGINT helicopter;Helicópteros
+SIGINT ship;Buques
+SIGINT system;Aviones
+SLBM;Misiles
+SPAAG;Vehículos blindados
+SPAAG turret;Estructuras defensivas
+SPG chassis;Vehículos blindados
+SPG turret;Estructuras defensivas
+SRAAM;Misiles
+SSB;Submarinos
+SSM;Misiles
+SSM launcher;Vehículos blindados
+SSM TEL;Misiles
+SSM/ASM;Misiles
+Steam engine;Motores
+Submarine;Submarinos
+Submarine sonar;Sistemas de guiado
+Supply ship;Buques
+Support craft;Buques
+Support ship;Buques
+support/repair ship;Buques
+Survey ship;Buques
+Tank;Vehículos blindados
+Tank chassis;Vehículos blindados
+Tank destroyer;Vehículos blindados
+Tank turret;Estructuras defensivas
+Tank/AFSV;Vehículos blindados
+Tanker;Vehículos blindados
+Tanker/transport ac;Vehículos blindados
+Target tow aircraft;Aviones
+Towed gun;Vehículos blindados
+Towed mortar;Vehículos blindados
+Towed MRL;Vehículos blindados
+Trainer aircraft;Aviones
+Trainer/combat ac;Aviones
+Trainer/light ac;Aviones
+Training ship;Buques
+Training tank;Vehículos blindados
+Transport aicraft;Aviones
+Transport aircraft;Aviones
+Transport craft;Aviones
+Transport helicopter;Helicópteros
+Transport ship;Buques
+Transport/trainer ac;Aviones
+Tug;Buques
+Turbofan;Motores
+Turbojet;Motores
+Turboprop;Motores
+Turboprop/turboshaft;Motores
+Turboshaft;Motores
+Turboshaft/turboprop;Motores
+"Type-6633; Project-633";Submarinos
+UAV;Aviones
+UAV/ASW UCAV;Aviones
+UAV/light aircraft;Aviones
+UAV/UCAV;Aviones

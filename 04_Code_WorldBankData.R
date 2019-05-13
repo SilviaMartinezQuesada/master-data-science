@@ -82,7 +82,7 @@ download_data_worldBank <- function(id_choose, show_plot, save_csv, path_to_save
   
   # 10. Save df as csv
   if(save_csv == "yes"){
-    write.csv(df, file = paste(path_to_save, "04_Output_WorldBankData.csv", sep="/"))
+    write.csv(df, file = paste(path_to_save, "04_Output_WorldBankData.csv", sep="/"), row.names = FALSE)
     print("The csv has been generated successfully")
   } else {
     print("The csv has not been generated because it has not been requested")

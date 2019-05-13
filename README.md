@@ -11,7 +11,7 @@ In each file you will find the steps to follow to correctly execute the process.
 
 Also, I recommend you follow the numerical order that identifies the files. For example, first take a look at file 01_Migrations, then file 02_HumanDevelopment, and so on.
 
-It will be necessary to install some packages of both R and Python, but quiet, everything is ready in the files.
+It will be necessary to install some packages of both R and Python, but relax, everything is ready in the files.
 
 You will also find two documents, one in which I summarize all the way traveled when doing this work and another shorter one with a summary and the conclusions obtained.
 

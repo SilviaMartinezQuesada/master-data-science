@@ -6,8 +6,16 @@
 
 # 1. First, we load the necessary packages and choose where to save the file
 
-if (!require(wbstats)) install.packages('wbstats')
-if (!require(data.table)) install.packages('data.table')
+if(!require(wbstats)){
+  install.packages("wbstats")
+  library(wbstats)
+}
+
+if(!require(data.table)){
+  install.packages("data.table")
+  library(data.table)
+}
+
 
 path_to_save <- getwd()
 

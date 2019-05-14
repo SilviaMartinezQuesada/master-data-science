@@ -8,10 +8,20 @@
 
 # 1. First, we load the necessary packages.
 
-if (!require(wbstats)) install.packages('wbstats')
-if (!require(googleVis)) install.packages('googleVis')
-if (!require(data.table)) install.packages('data.table')
+if(!require(wbstats)){
+  install.packages("wbstats")
+  library(wbstats)
+}
 
+if(!require(googleVis)){
+  install.packages("googleVis")
+  library(googleVis)
+}
+
+if(!require(data.table)){
+  install.packages("data.table")
+  library(data.table)
+}
 # 2. Take a look at the "indicators" table and write down the "id" column 
 #    for those indicators that are of interest to you.
 

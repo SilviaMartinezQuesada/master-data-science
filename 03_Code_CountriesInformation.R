@@ -8,12 +8,12 @@
 
 if(!require(wbstats)){
   install.packages("wbstats")
-  library(wbstats)
+  suppressPackageStartupMessages(library(wbstats))
 }
 
 if(!require(data.table)){
   install.packages("data.table")
-  library(data.table)
+  suppressPackageStartupMessages(library(data.table))
 }
 
 

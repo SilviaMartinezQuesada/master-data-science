@@ -10,18 +10,19 @@
 
 if(!require(wbstats)){
   install.packages("wbstats")
-  library(wbstats)
+  suppressPackageStartupMessages(library(wbstats))
 }
 
 if(!require(googleVis)){
   install.packages("googleVis")
-  library(googleVis)
+  suppressPackageStartupMessages(library(googleVis))
 }
 
 if(!require(data.table)){
   install.packages("data.table")
-  library(data.table)
+  suppressPackageStartupMessages(library(data.table))
 }
+
 # 2. Take a look at the "indicators" table and write down the "id" column 
 #    for those indicators that are of interest to you.
 

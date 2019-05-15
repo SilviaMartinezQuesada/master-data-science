@@ -1,23 +1,23 @@
 Weapon type;Label
-AA gun;Sistema Antiaéreo
-AA gun system;Sistema Antiaéreo
-AALS;Sistema Antiaéreo
+AA gun;Sistema Antiaereo
+AA gun system;Sistema Antiaereo
+AALS;Sistema Antiaereo
 ABL;Sistemas de guiado
 ABM;Estructuras defensivas
 ABM missile;Estructuras defensivas
 ABM system;Estructuras defensivas
 ABM/SAM system;Estructuras defensivas
 ACV/landing craft;Buques
-AD system;Vehículos blindados
-AEV;Vehículos blindados
-AEV/ARV;Vehículos blindados
+AD system;Vehiculos blindados
+AEV;Vehiculos blindados
+AEV/ARV;Vehiculos blindados
 AEW aircraft;Aviones
 AEW helicopter;Aviones
 AEW radar;Sistemas de guiado
 AEW&C aircraft;Aviones
 AEW&C system;Sistemas de guiado
 AEW/AGS aircraft;Sistemas de guiado
-AFSV;Vehículos blindados
+AFSV;Vehiculos blindados
 AGS aircraft;Sistemas de guiado
 AGS radar;Sistemas de guiado
 AGS/MP radar;Sistemas de guiado
@@ -35,34 +35,34 @@ Aircraft EO system;Motores
 Aircraft recce system;Sistemas de guiado
 Airship;Aviones
 ALCM;Misiles
-ALV;Vehículos blindados
-AMV;Vehículos blindados
-Anti-ship helicopter;Helicópteros
+ALV;Vehiculos blindados
+AMV;Vehiculos blindados
+Anti-ship helicopter;Helicopteros
 Anti-ship MI/ASM;Misiles
 Anti-ship MI/SSM;Misiles
 Anti-ship missile;Misiles
 Anti-ship missile/ARM;Misiles
 Anti-tank AV turret;Estructuras defensivas
 Anti-tank missile;Misiles
-APC;Vehículos blindados
+APC;Vehiculos blindados
 APC turret;Ametralladoras ligeras
-APC/APV;Vehículos blindados
-APC/Command Post;Vehículos blindados
-APC/CP;Vehículos blindados
-APC/IFV;Vehículos blindados
-APV;Vehículos blindados
-APV/APC;Vehículos blindados
+APC/APV;Vehiculos blindados
+APC/Command Post;Vehiculos blindados
+APC/CP;Vehiculos blindados
+APC/IFV;Vehiculos blindados
+APV;Vehiculos blindados
+APV/APC;Vehiculos blindados
 ARM;Misiles
-Armoured car;Vehículos blindados
+Armoured car;Vehiculos blindados
 Arty locating radar;Estructuras defensivas
-ARV;Vehículos blindados
+ARV;Vehiculos blindados
 AS torpedo;Misiles
 AS/ASW torpedo;Misiles
 ASM;Misiles
 ASM/anti-ship missile;Misiles
 ASM/anti-tank missile;Misiles
 ASW aircraft;Aviones
-ASW helicopter;Helicópteros
+ASW helicopter;Helicopteros
 ASW missile;Misiles
 ASW mortar;Estructuras defensivas
 ASW MRL;Estructuras defensivas
@@ -81,7 +81,7 @@ Coast defence system;Estructuras defensivas
 Coastal gun;Estructuras defensivas
 Combat ac radar;Sistemas de guiado
 Combat heli radar;Sistemas de guiado
-Combat helicopter;Helicópteros
+Combat helicopter;Helicopteros
 Corvette;Buques
 Cruiser;Buques
 Degaussing ship;Buques
@@ -106,24 +106,24 @@ Guided bomb;Misiles
 Guided rocket;Misiles
 Guided rocket/SSM;Misiles
 Guided shell;Misiles
-Gun chassis;Vehículos blindados
+Gun chassis;Vehiculos blindados
 Gunboat;Buques
 Heavy transport ac;Aviones
 Height-finding radar;Estructuras defensivas
-Helicopter;Helicópteros
-Helicopter turret;Helicópteros
+Helicopter;Helicopteros
+Helicopter turret;Helicopteros
 Icebreaker;Buques
 Icebreaker/OPV;Buques
-IFV;Vehículos blindados
-IFV turret;Vehículos blindados
-IFV/AFSV;Vehículos blindados
+IFV;Vehiculos blindados
+IFV turret;Vehiculos blindados
+IFV/AFSV;Vehiculos blindados
 Landing craft;Buques
 Landing ship;Buques
 Landing/patrol craft;Buques
 Light aircraft;Aviones
 Light aircraft/UAV;Aviones
-Light helicopter;Helicópteros
-Light tank;Vehículos blindados
+Light helicopter;Helicopteros
+Light tank;Vehiculos blindados
 Light transport ac;Aviones
 Light transport ac.;Aviones
 MCM ship;Buques
@@ -133,8 +133,8 @@ Minehunter;Buques
 Minelayer;Buques
 Minesweeper;Buques
 Minesweeper/corvette;Buques
-Mobile AD system;Vehículos blindados
-Mobile SAM system;Vehículos blindados
+Mobile AD system;Vehiculos blindados
+Mobile SAM system;Vehiculos blindados
 Mobile SSM launcher;Misiles
 Mortar;Estructuras defensivas
 Mortar turret;Estructuras defensivas
@@ -152,7 +152,7 @@ Naval mine/torpedo;Misiles
 Naval MRL;Misiles
 Naval SAM system;Estructuras defensivas
 Naval SAM system.;Estructuras defensivas
-Netlayer;Satélites
+Netlayer;Satelites
 Nuclear reactor;Motores
 Nuclear submarine;Submarinos
 Oiler;Buques
@@ -164,13 +164,13 @@ OPV/tug;Buques
 Patrol craft;Buques
 Patrol craft/FAC;Buques
 Petrol engine;Motores
-Portable SAM;Sistema Antiaéreo
+Portable SAM;Sistema Antiaereo
 Protector;Estructuras defensivas
 Radial engine;Motores
-Recce satellite;Satélites
+Recce satellite;Satelites
 Recce/SIGINT ac;Aviones
 Reconnaissance ac;Aviones
-Reconnaissance AV;Vehículos blindados
+Reconnaissance AV;Vehiculos blindados
 Repair ship;Buques
 Rescue ship;Buques
 Salvage ship;Buques
@@ -180,23 +180,23 @@ SAM system radar;Estructuras defensivas
 SAM/ABM;Estructuras defensivas
 SAM/ABM system;Estructuras defensivas
 Sea search radar;Sistemas de guiado
-Self-propelled gun;Vehículos blindados
-Self-propelled mortar;Vehículos blindados
+Self-propelled gun;Vehiculos blindados
+Self-propelled mortar;Vehiculos blindados
 Self-propelled MRL;Misiles
 Self-propelled MRL/SSM TEL;Misiles
 SIGINT aircraft;Aviones
-SIGINT helicopter;Helicópteros
+SIGINT helicopter;Helicopteros
 SIGINT ship;Buques
 SIGINT system;Aviones
 SLBM;Misiles
-SPAAG;Vehículos blindados
+SPAAG;Vehiculos blindados
 SPAAG turret;Estructuras defensivas
-SPG chassis;Vehículos blindados
+SPG chassis;Vehiculos blindados
 SPG turret;Estructuras defensivas
 SRAAM;Misiles
 SSB;Submarinos
 SSM;Misiles
-SSM launcher;Vehículos blindados
+SSM launcher;Vehiculos blindados
 SSM TEL;Misiles
 SSM/ASM;Misiles
 Steam engine;Motores
@@ -207,26 +207,26 @@ Support craft;Buques
 Support ship;Buques
 support/repair ship;Buques
 Survey ship;Buques
-Tank;Vehículos blindados
-Tank chassis;Vehículos blindados
-Tank destroyer;Vehículos blindados
+Tank;Vehiculos blindados
+Tank chassis;Vehiculos blindados
+Tank destroyer;Vehiculos blindados
 Tank turret;Estructuras defensivas
-Tank/AFSV;Vehículos blindados
-Tanker;Vehículos blindados
-Tanker/transport ac;Vehículos blindados
+Tank/AFSV;Vehiculos blindados
+Tanker;Vehiculos blindados
+Tanker/transport ac;Vehiculos blindados
 Target tow aircraft;Aviones
-Towed gun;Vehículos blindados
-Towed mortar;Vehículos blindados
-Towed MRL;Vehículos blindados
+Towed gun;Vehiculos blindados
+Towed mortar;Vehiculos blindados
+Towed MRL;Vehiculos blindados
 Trainer aircraft;Aviones
 Trainer/combat ac;Aviones
 Trainer/light ac;Aviones
 Training ship;Buques
-Training tank;Vehículos blindados
+Training tank;Vehiculos blindados
 Transport aicraft;Aviones
 Transport aircraft;Aviones
 Transport craft;Aviones
-Transport helicopter;Helicópteros
+Transport helicopter;Helicopteros
 Transport ship;Buques
 Transport/trainer ac;Aviones
 Tug;Buques

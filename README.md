@@ -13,6 +13,6 @@ Also, I recommend you follow the numerical order that identifies the files. For 
 
 It will be necessary to install some packages of both R and Python, but relax, everything is ready in the files.
 
-You will also find two documents, one in which I summarize all the way traveled when doing this work and another shorter one with a summary and the conclusions obtained.
+You will also find a .pdf document explaining the origin of the information, how to interpret the visualization, some conclusions and the next steps to follow.
 
 Hope you enjoy!

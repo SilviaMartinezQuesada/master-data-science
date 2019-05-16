@@ -13,7 +13,7 @@ Also, I recommend you follow the numerical order that identifies the files. For 
 
 It will be necessary to install some packages of both R and Python, but relax, everything is ready in the files. If you need to install a package you will see it at the beginning of the code
 
-##### You will also find a .pdf document in which you will find details of how to navigate in this repository.
+#### You will also find a .pdf document in which you will find details of how to navigate in this repository.
 
 In this document you will also find the origin of the information, how to interpret the visualization, some conclusions and the next steps to follow.
 
